@@ -1,0 +1,56 @@
+@media screen and (max-width: 500px) {
+    .logo img {
+        height: 50px;
+        margin: 20px;
+    }
+
+    .menu__item {
+        display: none;
+    }
+
+    .wrapper {
+        max-width: 500px;
+        margin: 0;
+    }
+
+    .mobile__menu {
+        display: flex;
+    }
+
+    .welcome h2 {
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 37px;
+        margin: 0;
+    }
+
+    .welcome h1 {
+        font-weight: normal;
+        font-size: 40px;
+        line-height: 52px;
+    }
+
+
+    .welcome {
+        font-weight: normal;
+        width: 276px;
+        height: 119px;
+        margin: 170px 50px;
+    }
+    .welcome p{
+        font-size: 14px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+    .welcome__restaurant p::before,
+    .welcome__restaurant p::after {
+display: none;
+    }
+    .welcome__restaurant{
+        width: 296px;
+        height: 159px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

@@ -12,6 +12,7 @@ body{
 
 .header__main {
     display: flex;
+    justify-content: space-between;
 }
 
 .logo {
@@ -71,7 +72,7 @@ p{
 }
 .welcome{
     font-weight: normal;
-    margin: 250px;
+    margin: 80px 180px;
     max-width: 500px;
 }
 .welcome h2{
@@ -82,7 +83,6 @@ p{
     margin: 0 20px;
 }
 .welcome h1{
-    height: 85px;
     font-weight: normal;
     font-size: 80px;
     line-height: 92px;
@@ -110,4 +110,23 @@ p{
     width: 61px;
     height: 2px;
     background-color: #FFFFFF;
+}
+.mobile__menu{
+    display: none;
+    width: 41px;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 15px;
+}
+.mobile__menu div{
+    height: 3px;
+    background: #FF7400;
+    border-radius: 50px;
+    margin: 2px;
+}
+.welcome__click{
+    max-width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
 }
