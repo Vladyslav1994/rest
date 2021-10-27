@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+}
+.header {
+    height: 100vh;
+    background: url("../image/bg.png") no-repeat center/cover;
+}
+
+.nav__item img {
+    width: 20px;
+}
+
+.header__main {
+    display: flex;
+}
+
+.logo {
+    width: 100px;
+    height: 67px;
+    margin-top: 50px;
+    margin-left: 165px;
+
+}
+.menu{
+    margin-top: 55px;
+    margin-left: 433px;
+    display: flex;
+    align-items: center;
+}
+.menu__item{
+    display: flex;
+}
+.nav__item a{
+    width: 95px;
+    height: 19px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin: 23px;
+    text-decoration: none;
+}
+.contact {
+    width: 200px;
+    border-left: 1px solid #FFFFFF;
+}
+.phone{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    height: 25px;
+    margin-left: 20px;
+}
+p{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    width: 154px;
+    height: 38px;
+    margin: 10px 20px;
+}
+.click{
+    width: 157px;
+    height: 47px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    background: #FF7400;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.welcome{
+    font-weight: normal;
+    margin: 150px;
+    max-width: 500px;
+}
+.welcome h2{
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+}
+.welcome h1{
+    height: 85px;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+}
+.welcome p{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.wrapper {
+    max-width: 1700px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
