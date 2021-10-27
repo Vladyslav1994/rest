@@ -100,7 +100,7 @@ p{
 }
 .wrapper {
     max-width: 1700px;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 0 20px;
 }
 .welcome__restaurant p::before,
