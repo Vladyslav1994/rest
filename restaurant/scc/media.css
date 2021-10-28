@@ -1,0 +1,55 @@
+@media screen and ( max-width: 500px) {
+    .nav__item, .nav__item_card, .nav__item_phone, .info, .border-1, .phone, .click1 {
+        display: none;
+    }
+
+    .logo__img {
+        display: flex;
+        height: 30px;
+    }
+
+    .mobile__menu {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__menu {
+        max-width: 500px;
+    }
+
+    .welcome {
+        width: 499px;
+        margin: 80px;
+    }
+
+    .welcome__restaurant_h2, h2 {
+        font-size: 30px;
+        line-height: 90px;
+        margin-left: 10px;
+    }
+
+    .welcome__restaurant_h1, h1 {
+        font-size: 50px;
+        line-height: 80px;
+        margin: 0;
+    }
+
+    .welcome__restaurant_p {
+        font-size: 15px;
+        line-height: 20px;
+        margin: 0;
+    }
+    .click{
+        margin-left: -92px;
+    }
+    .square{
+        height: 800px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .square__food{
+
+        margin-bottom: 90px;
+        margin-left: 70px;
+    }
+}

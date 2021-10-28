@@ -1,0 +1,160 @@
+.header {
+    height: 100vh;
+    background: url("../image/bg.png") no-repeat center/cover;
+}
+
+.nav__item_card {
+    width: 20px;
+    margin-top: 25px;
+}
+
+.nav__item {
+
+}
+.logo__img{
+    margin: 35px;
+}
+.row>*{
+    padding: 0;
+}
+.nav__item, a{
+    height: 19px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    display: flex;
+    margin-top: 25px;
+    text-decoration: none;
+}
+.border-1{
+    border-left: 1px solid white;
+    margin: 30px;
+    height: 60px;
+    width: 2px;
+}
+.info{
+    width: 154px;
+    height: 38px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.phone{
+    margin-top: 30px;
+}
+.btn{
+    width: 157px;
+    height: 47px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #FF7400;
+    border-radius: 0;
+    margin-top: 30px;
+}
+
+.welcome__restaurant_h2, h2{
+    width: 550px;
+    height: 57px;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+    margin: 0 20px;
+}
+.welcome__restaurant_h1, h1 {
+    width: 556px;
+    height: 85px;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+    margin: 0 10px;
+
+}
+.welcome__restaurant_p{
+    width: 369px;
+    height: 25px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin: 30px 120px;
+}
+.welcome{
+    width: 550px;
+    margin: 120px;
+
+}
+.welcome__restaurant_p::before,
+.welcome__restaurant_p::after{
+    content: "";
+    display: block;
+    width: 61px;
+    height: 2px;
+    background-color: #FFFFFF;
+    margin-bottom: 15px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.square{
+    height: 200px;
+    border: #FFFFFF;
+
+}
+.square__food{
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+    margin: -70px 10px;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.square__food>h5{
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+    margin-left: 40px;
+}
+.square__food>p{
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+    margin: 5px;
+}
+h5> span{
+    color: #BC9060;
+}
+.square__food >img{
+    width: 126px;
+    height: 104px;
+    margin: 50px 100px 10px;
+}
+.square__food>h6{
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+    margin-left: 70px;
+}
+.mobile__menu{
+    display: none;
+    height: 17.75px;
+    margin-left: 340px;
+}
+.mobile__menu_1{
+    width: 30.88px;
+    height: 3.25px;
+    background: #FF7400;
+    border-radius: 50px;
+    margin-top: 3px;
+}
+.header__menu{
+    max-width: 1700px;
+}
+
