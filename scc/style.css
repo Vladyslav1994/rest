@@ -72,7 +72,7 @@ p{
 }
 .welcome{
     font-weight: normal;
-    margin: 80px 180px;
+    margin: 10px 180px;
     max-width: 500px;
 }
 .welcome h2{
@@ -129,4 +129,45 @@ p{
     height: 100px;
     display: flex;
     justify-content: center;
+}
+.square__food{
+    width: 100%;
+    height: 300px;
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+.square__food_item {
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    margin-top: -100px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.square__food_item, img{
+    justify-content: center;
+    align-items: center;
+}
+.square__food_item, h5{
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+
+.square__food_item, div {
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+}
+h5{
+    margin: 15px;
+}
+span{
+    color: #BC9060;
 }
