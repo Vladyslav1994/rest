@@ -8,7 +8,9 @@
     height: 36px;
     background: #0F2438;
 }
-
+.font__family{
+    font-family: Roboto;
+}
 .nav-item > .nav-link, .disabled {
     width: 200px;
     height: 20px;
@@ -772,8 +774,6 @@ input {
 
 .items > h1 {
     width: 113px;
-    height: 28px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 24px;
     line-height: 28px;
@@ -792,7 +792,6 @@ input {
 
 .nineth__1 > h6 {
     width: 153px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 19px;
@@ -803,7 +802,6 @@ input {
 
 .nineth__1 > p {
     width: 284px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 20px;
@@ -818,7 +816,6 @@ input {
 
 .nineth__2 > h6 {
     width: 191px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 19px;
@@ -828,7 +825,6 @@ input {
     margin-bottom: 20px;
 }
 .nineth__2 > p{
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     color: #242424;
@@ -836,7 +832,6 @@ input {
 }
 .nineth__3 > h6{
     width: 268px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 19px;
@@ -847,7 +842,6 @@ input {
 }
 .nineth__3 > p{
     width: 260px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 10px;
@@ -859,7 +853,6 @@ input {
 }
 .nineth__4 > h6{
     width: 278px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 19px;
@@ -868,7 +861,6 @@ input {
 }
 .nineth__4 > p{
     width: 252px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 16px;
     line-height: 20px;
@@ -879,7 +871,6 @@ input {
     background: #0C1A2A;
 }
 .tenth__1 > h5{
-    font-family: Roboto;
     font-style: normal;
     font-size: 18px;
     line-height: 21px;
@@ -887,7 +878,6 @@ input {
     margin-top: 30px;
 }
 .tenth__1 > p{
-    font-family: Roboto;
     font-style: normal;
     font-size: 14px;
     line-height: 16px;
@@ -900,7 +890,6 @@ input {
     margin-left: 150px;
 }
 .tenth__1_1 > p{
-    font-family: Roboto;
     font-style: normal;
     font-size: 14px;
     color: #FFFFFF;
@@ -911,7 +900,6 @@ input {
     margin-left: 100px;
 }
 .tenth__1_2 > h5{
-    font-family: Roboto;
     font-style: normal;
     font-size: 18px;
     line-height: 21px;
@@ -920,7 +908,6 @@ input {
     margin-bottom: 30px;
 }
 .tenth__1_2 > h6{
-    font-family: Roboto;
     font-style: normal;
     font-size: 18px;
     line-height: 1px;
@@ -933,7 +920,6 @@ input {
 .tenth__1 > span{
     width: 195px;
     height: 21px;
-    font-family: Roboto;
     font-style: normal;
     font-size: 18px;
     color: #FFFFFF;
@@ -959,14 +945,13 @@ input {
 .tenth__contact{
     margin-left: 280px;
 }
-.tenth__1 > h6{
-    font-family: Roboto;
+.eleventh{
+    background: #0C1A2A;
+}
+.text__6_contakt{
     font-style: normal;
     font-size: 16px;
     line-height: 20px;
     color: #737E9B;
-    margin-top: 80px;
-}
-.margleft-50{
-    margin-left: -50px;
+    margin-left: 250px;
 }
