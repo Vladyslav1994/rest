@@ -304,15 +304,18 @@ input {
 
 .fourth__1 {
     height: 390px;
-    background: url(../image/backgraund_1.png)no-repeat;
+    background: url(../image/backgraund_1.png) no-repeat;
 }
+
 .fourth {
     margin-left: 250px;
     margin-top: 30px;
 }
+
 .fourth__text {
     width: 436px;
 }
+
 .fourth__text > h1 {
     width: 324px;
     height: 42px;
@@ -322,6 +325,7 @@ input {
     line-height: 42px;
     color: #0A1A2C;
 }
+
 .fourth__text > h2 {
     width: 200px;
     height: 43px;
@@ -335,7 +339,8 @@ input {
 .text__h2h5 {
     margin-top: 20px
 }
-.text__h2h5 > h5{
+
+.text__h2h5 > h5 {
     width: 117px;
     height: 26px;
     font-family: Roboto;
@@ -372,18 +377,21 @@ input {
     margin-left: 20px;
     margin-top: 10px;
 }
-.fourth__img{
+
+.fourth__img {
     width: 417px;
     height: 356px;
 }
-.fourth__2_1{
+
+.fourth__2_1 {
     width: 336px;
     height: 190px;
     background: #F4F5FA;
     border-radius: 10px;
     margin: 5px;
 }
-.mufta > h4{
+
+.mufta > h4 {
     width: 186px;
     height: 46px;
     font-family: Roboto;
@@ -393,7 +401,8 @@ input {
     margin-top: 10px;
     margin-left: 20px;
 }
-.mufta > p{
+
+.mufta > p {
     font-family: Roboto;
     font-style: normal;
     font-size: 12px;
@@ -401,7 +410,8 @@ input {
     color: #525252;
     margin-left: 14px;
 }
-.price__1 > h2{
+
+.price__1 > h2 {
     width: 66px;
     font-family: Roboto;
     font-style: normal;
@@ -411,7 +421,8 @@ input {
     color: #FFB800;
     margin-top: 13px;
 }
-.price__1 > h3{
+
+.price__1 > h3 {
     width: 51px;
     font-family: Roboto;
     font-style: normal;
@@ -421,7 +432,8 @@ input {
     color: #C2C5DA;
     margin-top: 15px;
 }
-.btn__4{
+
+.btn__4 {
     width: 57px;
     height: 49px;
     background: #005BB9;
@@ -429,15 +441,18 @@ input {
     margin-left: 30px;
     margin-right: 20px;
 }
-.img__left{
+
+.img__left {
     margin-top: 150px;
     cursor: pointer;
 }
-.kolo{
+
+.kolo {
     margin-top: 40px;
     margin-left: 450px;
 }
-.fifth__1{
+
+.fifth__1 {
     width: 431px;
     height: 184px;
     background: #FFFFFF;
@@ -447,14 +462,16 @@ input {
     border-radius: 6px;
     margin-top: 50px;
 }
-.fifth__text > strong{
+
+.fifth__text > strong {
     font-family: Roboto;
     font-style: normal;
     font-size: 24px;
     line-height: 28px;
     color: #0A1A2C;
 }
-.fifth__text > p{
+
+.fifth__text > p {
     width: 182px;
     font-family: Roboto;
     font-style: normal;
@@ -462,56 +479,66 @@ input {
     line-height: 13px;
     color: #0A1A2C;
 }
-.btn__5{
+
+.btn__5 {
     width: 86px;
     height: 26px;
     background: #005BB9;
     border-radius: 4px;
     color: #FFFFFF;
 }
-.fifth__img{
+
+.fifth__img {
     width: 154px;
     height: 202px;
     margin-left: 10px;
     margin-top: -8px;
 }
-.fifth{
+
+.fifth {
     margin-left: 220px;
 }
-.fifth__1 > img{
+
+.fifth__1 > img {
     width: 80px;
     height: 80px;
     margin-top: 50px;
     margin-left: -40px;
 }
-.fifth__img_2{
+
+.fifth__img_2 {
     width: 154px;
     height: 202px;
     margin-left: 40px;
     margin-top: -8px;
 }
-.fifth__img_3{
+
+.fifth__img_3 {
     width: 50px;
     height: 50px;
     margin-top: 50px;
     margin-left: -50px;
 }
-.sixth__btn{
+
+.sixth__btn {
     width: 241px;
     height: 55px;
     background: #005BB9;
     border-radius: 6px;
 }
-.sixth{
+
+.sixth {
     height: 150px;
 }
-.sixth__1{
+
+.sixth__1 {
     width: 241px;
     height: 55px;
     background: #005BB9;
     border-radius: 6px;
 }
-.sixth__1 > p{
+
+.sixth__1 > p {
     width: 177px;
     height: 23px;
     font-family: Roboto, serif;
@@ -520,7 +547,8 @@ input {
     color: #FFFFFF;
     cursor: pointer;
 }
-.sixth__2{
+
+.sixth__2 {
     width: 123px;
     height: 55px;
     border: 2px solid #005BB9;
@@ -528,7 +556,8 @@ input {
     border-radius: 6px;
     margin-left: 10px;
 }
-.sixth__2 > p{
+
+.sixth__2 > p {
     width: 59px;
     height: 23px;
     font-family: Roboto;
@@ -536,7 +565,8 @@ input {
     color: #005BB9;
     cursor: pointer;
 }
-.sixth__3{
+
+.sixth__3 {
     width: 229px;
     height: 55px;
     border: 2px solid #005BB9;
@@ -544,7 +574,8 @@ input {
     border-radius: 6px;
     margin-left: 10px;
 }
-.sixth__3 > p{
+
+.sixth__3 > p {
     width: 165px;
     height: 23px;
     font-family: Roboto;
@@ -553,31 +584,38 @@ input {
     color: #005BB9;
     cursor: pointer;
 }
-.mar100{
+
+.mar100 {
     margin-top: 100px;
 }
-.mar120{
+
+.mar120 {
     margin-left: 250px;
 }
-.seventh{
+
+.seventh {
     width: 1920px;
     height: 1100px;
 }
-.seventh__1_1{
+
+.seventh__1_1 {
     width: 316px;
     height: 418px;
     margin-top: 50px;
     margin-left: 250px;
 }
-.seventh__1_1 > img{
+
+.seventh__1_1 > img {
     width: 276px;
     height: 235px;
 }
-.star > img{
+
+.star > img {
     width: 16px;
     height: 16px;
 }
-.star > p{
+
+.star > p {
     width: 20px;
     height: 16px;
     font-family: Roboto;
@@ -585,7 +623,8 @@ input {
     font-size: 14px;
     color: #FFB800;
 }
-.star > span{
+
+.star > span {
     width: 76px;
     height: 16px;
     font-family: Roboto;
@@ -596,7 +635,8 @@ input {
     margin-left: 10px;
     margin-top: 3px;
 }
-.seventh__1_1 >h6{
+
+.seventh__1_1 > h6 {
     width: 316px;
     height: 25px;
     font-family: Roboto;
@@ -605,7 +645,8 @@ input {
     line-height: 25px;
     color: #0A1A2C;
 }
-.seventh__1_1price > p{
+
+.seventh__1_1price > p {
     width: 35px;
     height: 15px;
     font-family: Roboto;
@@ -614,7 +655,8 @@ input {
     color: #000000;
     margin-top: 4px;
 }
-.seventh__1_1price > span{
+
+.seventh__1_1price > span {
     width: 80px;
     height: 15px;
     font-family: Roboto;
@@ -623,16 +665,19 @@ input {
     color: #005BB9;
     margin-left: 10px;
 }
-.seventh__1_1price{
+
+.seventh__1_1price {
     width: 140px;
 }
-.btn__6{
+
+.btn__6 {
     width: 160px;
     height: 49px;
     background: #005BB9;
     border-radius: 6px;
 }
-.btn__6 > p{
+
+.btn__6 > p {
     width: 75px;
     height: 19px;
     font-family: Roboto;
@@ -641,24 +686,28 @@ input {
     margin-top: 10px;
     margin-left: 10px;
 }
-.heart__1{
+
+.heart__1 {
     width: 21px;
     height: 18px;
     margin: 15px;
 }
-.group__141{
+
+.group__141 {
     width: 21px;
     height: 16px;
     margin-top: 15px;
 }
-.seventh__1_2tekst{
+
+.seventh__1_2tekst {
     width: 39px;
     height: 20px;
     background: #FFB800;
     border-radius: 2px;
     color: white;
 }
-.seventh__1_price_gold > p{
+
+.seventh__1_price_gold > p {
     width: 72px;
     height: 26px;
     font-family: Roboto;
@@ -668,7 +717,8 @@ input {
     line-height: 26px;
     color: #FFB800;
 }
-.seventh__1_price_gold > span{
+
+.seventh__1_price_gold > span {
     width: 51px;
     height: 19px;
     font-family: Roboto;
@@ -678,15 +728,18 @@ input {
     text-decoration-line: line-through;
     color: #C2C5DA;
 }
-.mar30{
+
+.mar30 {
     margin-left: 50px;
     margin-top: 30px;
 }
-.margin50{
+
+.margin50 {
     margin-top: 50px;
     margin-left: 50px;
 }
-.seventh__1::after{
+
+.seventh__1::after {
     content: "";
     display: block;
     width: 1354px;
@@ -695,7 +748,8 @@ input {
     margin-top: 470px;
     margin-left: -1400px;
 }
-.seventh__more{
+
+.seventh__more {
     width: 187px;
     height: 49px;
     background: #FFFFFF;
@@ -704,7 +758,8 @@ input {
     border-radius: 6px;
     margin-left: 850px;
 }
-.seventh__more > p{
+
+.seventh__more > p {
     width: 107px;
     height: 19px;
     font-family: Roboto;
@@ -713,4 +768,205 @@ input {
     color: #005BB9;
     line-height: 35px;
     cursor: pointer;
+}
+
+.items > h1 {
+    width: 113px;
+    height: 28px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-left: 250px;
+}
+
+.eigth {
+    height: 9px;
+    background: #F5F5F5;
+}
+
+.nineth {
+    height: 400px;
+}
+
+.nineth__1 > h6 {
+    width: 153px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #005BB9;
+    margin-top: 10px;
+}
+
+.nineth__1 > p {
+    width: 284px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #242424;
+    margin-top: 15px;
+}
+
+.nineth__1 {
+    margin-left: 250px;
+    margin-top: -10px;
+}
+
+.nineth__2 > h6 {
+    width: 191px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #005BB9;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.nineth__2 > p{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    color: #242424;
+    line-height: 10px;
+}
+.nineth__3 > h6{
+    width: 268px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #005BB9;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.nineth__3 > p{
+    width: 260px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 10px;
+    color: #242424;
+}
+.marg{
+    margin-top: -10px;
+    margin-left: 100px;
+}
+.nineth__4 > h6{
+    width: 278px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #005BB9;
+}
+.nineth__4 > p{
+    width: 252px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #242424;
+}
+.tenth{
+    height: 410px;
+    background: #0C1A2A;
+}
+.tenth__1 > h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #868DAC;
+    margin-top: 30px;
+}
+.tenth__1 > p{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.tenth__1{
+    margin-left: 250px;
+}
+.marleft150{
+    margin-left: 150px;
+}
+.tenth__1_1 > p{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.margleft_100{
+    margin-left: 100px;
+}
+.tenth__1_2 > h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #868DAC;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.tenth__1_2 > h6{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1px;
+    color: #868DAC;
+    margin-top: 20px;
+}
+.margleft-250{
+    margin-left: -250px;
+}
+.tenth__1 > span{
+    width: 195px;
+    height: 21px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+.tenth__1_4 > input{
+    width: 320px;
+    height: 40px;
+    border: 1px solid #203246;
+    box-sizing: border-box;
+    border-radius: 6px;
+    background: #0C1A2A;
+}
+.write{
+    width: 177px;
+    height: 40px;
+    background: #005BB9;
+    border-radius: 0 6px 6px 0;
+}
+.tenth__1_3{
+    margin-top: 30px;
+}
+.tenth__contact{
+    margin-left: 280px;
+}
+.tenth__1 > h6{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #737E9B;
+    margin-top: 80px;
+}
+.margleft-50{
+    margin-left: -50px;
 }
