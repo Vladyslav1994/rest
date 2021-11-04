@@ -884,7 +884,7 @@ input {
     color: #FFFFFF;
 }
 .tenth__1{
-    margin-left: 250px;
+    margin-left: 150px;
 }
 .marleft150{
     margin-left: 150px;
@@ -914,9 +914,7 @@ input {
     color: #868DAC;
     margin-top: 20px;
 }
-.margleft-250{
-    margin-left: -250px;
-}
+
 .tenth__1 > span{
     width: 195px;
     height: 21px;
@@ -941,9 +939,7 @@ input {
 }
 .tenth__1_3{
     margin-top: 30px;
-}
-.tenth__contact{
-    margin-left: 280px;
+    margin-left: -250px;
 }
 .eleventh{
     background: #0C1A2A;
@@ -954,4 +950,29 @@ input {
     line-height: 20px;
     color: #737E9B;
     margin-left: 250px;
+}
+.menu__1_mobile{
+    display: none;
+}
+.searches{
+    display: none;
+    width: 54px;
+    height: 54px;
+    background: #005BB9;
+    border-radius: 0 4px 4px 0;
+}
+.searches > img{
+    height: 20px;
+    width: 20px;
+    margin: 15px;
+}
+.nop{
+    display: none!important;
+}
+.margleft__250{
+    margin-left: 250px;
+}
+.tenth__1_2{
+    margin-left: -250px;
+    margin-top: -38px;
 }
